@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1609533560 source:c:\users\furka\onedrive\masaüstü\c-kodlarý\3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
+1609836679 source:c:\users\furka\onedrive\masaüstü\prolab3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
